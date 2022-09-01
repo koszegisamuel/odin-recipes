@@ -1,0 +1,43 @@
+h1 {
+    color: white;
+    background-color: brown;
+}
+
+h2 {
+    background-color: lightyellow;
+}
+
+li {
+    font-size: 18px;
+    color: grey;
+    font-style: italic;
+    
+}
+
+h3 {
+    color: blueviolet;
+
+}
+
+h4 {
+    color: white;
+    background-color: black;
+}
+
+p {
+    font-size: 18px;
+    color: grey;
+    font-weight: 700;
+}
+
+.maintitle {
+    background-color: aquamarine;
+    color: black;
+
+}
+
+#sub {
+    background-color: blue;
+    color: yellow;
+
+}
